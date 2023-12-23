@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Añado linea desde rama master
+=======
+Agor añado linea desde rama desarrollo
+>>>>>>> desarrollo
